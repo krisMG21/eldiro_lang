@@ -1,4 +1,4 @@
-# eldiro_lang
+# Make a language in Rust - Eldiro
 Language parser and interpreter for a fictional language called eldiro. 
 Original [tutorial](https://lunacookies.github.io/lang) from [lunacookies](https://github.io/lunacookies)
 
