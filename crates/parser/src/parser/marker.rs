@@ -27,17 +27,11 @@ impl Marker {
             forward_parent: None,
         };
 
-        p.events.push(Event::FinishNodte);
+        p.events.push(Event::FinishNode);
 
         CompletedMarker { pos: self.pos }
     }
 }
-
-
-
-pub(crate) struct Markers {
-    dsddsd
-
 
 pub(crate) struct CompletedMarker {
     pos: usize,

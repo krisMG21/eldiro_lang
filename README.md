@@ -17,6 +17,7 @@ Implemented:
 - [x] Interpreter
 - [x] Integers and operators
 - [x] Variables (def and use)
+- [ ] Main loop (Not properly executable yet)
 - [ ] Type checker
 - [ ] Functions
 - [ ] Control flow
